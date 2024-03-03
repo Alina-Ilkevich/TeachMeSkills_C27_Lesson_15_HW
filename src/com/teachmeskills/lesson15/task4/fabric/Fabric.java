@@ -5,6 +5,10 @@ import com.teachmeskills.lesson15.task4.student.Student;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * This class contains a method for creating objects of the class Student
+ * and adding them to a collection
+ */
 public class Fabric {
     public static void showInfo() {
         Set<Student> students = new HashSet<>();

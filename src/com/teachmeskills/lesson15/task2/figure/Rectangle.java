@@ -4,7 +4,7 @@ import com.teachmeskills.lesson15.task2.figure.Figure;
 
 /**
  * This class is used to describe a rectangle and
- * describe methods for calculating the perimeter and area of the rectangle
+ * contains a method for calculating the perimeter of the rectangle
  */
 
 public class Rectangle extends Figure {

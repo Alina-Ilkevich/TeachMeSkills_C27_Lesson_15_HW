@@ -4,7 +4,7 @@ import com.teachmeskills.lesson15.task2.figure.*;
 import java.util.ArrayList;
 
 /**
- *  This class is used to check the written code
+ *  This class is used to create class objects and add them to the collection
  */
 public class Runner {
     public static void main(String[] args) {

@@ -3,6 +3,10 @@ package com.teachmeskills.lesson15.task1.service;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * This class contains a method to fill the collection with values
+ * entered from the console and a method to output even numbers from the collection
+ */
 public class CollectionCreating {
     public static ArrayList<Integer> createCollection() {
         System.out.println("Enter a number or exit: ");

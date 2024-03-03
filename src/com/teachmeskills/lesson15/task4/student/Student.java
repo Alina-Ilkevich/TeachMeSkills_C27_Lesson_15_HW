@@ -1,5 +1,8 @@
 package com.teachmeskills.lesson15.task4.student;
 
+/**
+ * This class is used to create a student
+ */
 public class Student {
     private String studentName;
 

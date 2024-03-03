@@ -6,6 +6,10 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * This class contains a method for creating a collection and
+ * a method for calculating the arithmetic mean of the elements of the collection
+ */
 public class CollectionCreating {
     public static ArrayList<Integer> createCollection(){
         ArrayList<Integer> numbers = null;

@@ -2,7 +2,7 @@ package com.teachmeskills.lesson15.task2.figure;
 
 /**
  * This class is used to describe a circle and
- * describe methods for calculating the perimeter and area of the circle
+ * contains a method for calculating the perimeter of the circle
  */
 public class Circle extends Figure {
 
